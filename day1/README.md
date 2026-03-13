@@ -61,4 +61,4 @@ A number that equals the sum of the factorials of its digits.
 - 10 is NOT a strong number because 1! + 0! = 1 + 1 = 2 ✗
 
 
-*Happy Coding! 🐍*
+*Happy Coding!  🐍*
